@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
 <h3 align="center">Software Engineer from Ukraine🇺🇦</h3>
 
-- 🔭 I’m currently working on [CashCard API](https://github.com/Artemmmm13/CashCard)
+- 🔭 I’m currently working on [VidClick API](https://github.com/Artemmmm13/VidClick-API)
 
 - 👯 I’m looking to collaborate on **Big Enterprise Projects**
 
