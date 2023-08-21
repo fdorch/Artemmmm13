@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [VidClick API](https://github.com/Artemmmm13/VidClick-API)
 
-- 👯 I’m looking to collaborate on **Big Enterprise Project**
+- 👯 I’m looking to collaborate on **Big Enterprise Projects**
 
 - 📫 How to reach me **fedorcenkoartem62@gmail.com**
 
